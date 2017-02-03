@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnYoruba</string>
+
+    <string name="greetings">Greetings</string>
+    <string name="numbers">Numbers</string>
+    <string name="phrases">Phrases</string>
+    <string name="proverbs">Proverbs</string>
+</resources>

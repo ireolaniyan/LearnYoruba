@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29130a</color>
+    <color name="colorPrimaryDark">#29130d</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="app_background">#FFF7DA</color>
+
+    <color name="category_numbers">#FD8E09</color>
+    <color name="category_greetings">#379237</color>
+    <color name="category_phrases">#16AFCA</color>
+    <color name="category_proverbs">#8800A0</color>
+</resources>
